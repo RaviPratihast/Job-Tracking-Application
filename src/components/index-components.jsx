@@ -1,2 +1,3 @@
 import { Dashboard } from "./Dashboard";
-export { Dashboard };
+import { Header } from "./Header";
+export { Dashboard, Header };

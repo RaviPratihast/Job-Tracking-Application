@@ -1,5 +1,10 @@
+import { Header } from "./index-components";
 const Dashboard = () => {
-  return <div>Dashboard</div>;
+  return (
+    <div>
+      <Header />
+    </div>
+  );
 };
 
 export { Dashboard };
